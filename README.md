@@ -1,23 +1,34 @@
 <div align="center">
-  <h1>😆 Hey!, Nice to see you.👋</h1>
+  <h1>👋 Welcome to My Portfolio, where ideas meet execution! 🚀</h1>
 </div>
 
 <div align="center">
-  <p>Welcome to my page!
-    I'm Seungoho, Fullstack developer 🐦‍🔥<br/>
-    Currently developing web applications using the Java-based Spring Framework and JPA, focusing on RESTful API design and   database optimization.  
+  <p>Welcome to my page!  
+    I'm Seungoho, a Fullstack Developer 🐦‍🔥<br/>
+    Currently, I specialize in developing web applications using the Java-based Spring Framework and JPA,  
+    with a focus on RESTful API design and database optimization.  
   </p>
   <br/>
   <p>
-    I am conducting research with the goal of enhancing backend system performance and gaining a deep understanding of large-scale data processing.
+    I am conducting research to enhance backend system performance and gain a deeper understanding of large-scale data processing.
   </p>
 </div>
 
 <div align="center">
-  <h2>My work introduction🌊</h2>
-  <p>I spearheaded the development of a University Academic Support Program, focusing on optimizing database table design and creating reusable, time-efficient utility functions to streamline CRUD operations. This approach significantly enhanced data processing efficiency and reduced system complexity, contributing to the overall robustness of the project.⛱️</p>
-  <p>If you have anything you would like to collaborate with or discuss with me, please contact me by email🌤️: wnmsoso9633@naver.com</p>
-  <p>Also, I'm active on Instagram🔥: <a href="https://www.instagram.com/o_o_seung_o/">@o_o_seung_o</a></p>
+  <h2>My Work Introduction 🌊</h2>
+  <p>
+    I spearheaded the development of a University Academic Support Program,  
+    focusing on optimizing database table design and creating reusable, time-efficient utility functions  
+    to streamline CRUD operations. This approach significantly improved data processing efficiency  
+    and reduced system complexity, enhancing the overall robustness of the project. ⛱️
+  </p>
+  <p>
+    If you'd like to collaborate or discuss anything with me, feel free to reach out via email 🌤️:  
+    <a href="mailto:wnmsoso9633@naver.com">wnmsoso9633@naver.com</a>
+  </p>
+  <p>
+    I'm also active on Instagram🔥: <a href="https://www.instagram.com/o_o_seung_o/">@o_o_seung_o</a>
+  </p>
 </div>
 
 # Skills
