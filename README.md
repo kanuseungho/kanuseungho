@@ -15,8 +15,7 @@
 
 <div align="center">
   <h2>My work introduction🌊</h2>
-  <p>University Academic Support Program
-I spearheaded the development of a University Academic Support Program, focusing on optimizing database table design and creating reusable, time-efficient utility functions to streamline CRUD operations. This approach significantly enhanced data processing efficiency and reduced system complexity, contributing to the overall robustness of the project.⛱️</p>
+  <p>I spearheaded the development of a University Academic Support Program, focusing on optimizing database table design and creating reusable, time-efficient utility functions to streamline CRUD operations. This approach significantly enhanced data processing efficiency and reduced system complexity, contributing to the overall robustness of the project.⛱️</p>
   <p>If you have anything you would like to collaborate with or discuss with me, please contact me by email🌤️: wnmsoso9633@naver.com</p>
   <p>Also, I'm active on Instagram🔥: <a href="https://www.instagram.com/o_o_seung_o/">@o_o_seung_o</a></p>
 </div>
